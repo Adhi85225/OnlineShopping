@@ -1,0 +1,34 @@
+.login-header{
+  font-family: serif;
+
+}
+
+.login-wrapper{
+  margin-top: 30px;
+  padding-top: 30px;
+  background-image: url('Images/backgroundimages/bg5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+
+.signup-header{
+  font-family: serif;
+}
+
+.signup-wrapper{
+  margin-top: 30px;
+  padding-top: 30px;
+  background-image: url('/Images/backgroundimages/bg5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.tabindex
+{
+<span class="material-icons">
+search
+</span>
+}
